@@ -100,6 +100,3 @@ This project is designed as a learning exercise for object-oriented programming 
 - validation logic
 - menu-driven console applications
 
-## License
-
-This project does not currently include a license file. If you want, you can add one later depending on how you intend to share or distribute the code.
